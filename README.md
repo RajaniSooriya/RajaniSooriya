@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+<!-- 
 ## 🚀 About Me
 - 🎓 Final Year Project: *Gamification + AI to improve cognitive stimulation & emotional awareness in Down Syndrome children*  
 - 🤖 Passionate about **Machine Learning, NLP, and Explainable AI (XAI)**  
@@ -68,3 +68,4 @@
 ---
 
 ✨ *"Building technology with purpose – making AI accessible and meaningful for everyone."*  
+-->
